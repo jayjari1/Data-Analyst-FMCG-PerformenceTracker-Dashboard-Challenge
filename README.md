@@ -1,4 +1,4 @@
-# Data-Analyst-FMCG-PerformanceTracking-Dashboard-Challenge
+# FMCG Company Performence Tracking Dash Board
 ## Problem Statement / Situation
 
 AtliQ Mart, an FMCG manufacturer based in Gujarat, India, is on a growth trajectory and currently operates in Surat, Ahmedabad, and Vadodara. With plans to expand to other cities in the next two years, they are addressing a critical challenge. Some key customers haven't renewed contracts due to service issues, likely related to delays or incomplete deliveries of essential products. To resolve this, the supply chain analytics team is implementing a daily tracking system for 'On-time delivery,' 'In-full delivery,' and the combined 'OnTime in full' service levels. This initiative aims to swiftly identify and address any issues to enhance customer satisfaction before the company's expansion.
