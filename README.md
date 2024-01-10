@@ -10,19 +10,19 @@ Their revenue management team had decided to hire a 3rd party service provider t
   - City and Customer-wise
   Visualized against targets
 #### 2. Line Fill and Volume:
-  City and Customer-specific metrics
+  - City and Customer-specific metrics
 #### 3. Customer Service Level:
-  Visualized for On-Time, Full-Time, and Combined Metrics
-  Line Fill and Volume
+- Visualized for On-Time, Full-Time, and Combined Metrics
+  - Line Fill and Volume
 #### 4. Conditional Formatting:
-  Highlighting gaps from target metrics
+  - Highlighting gaps from target metrics
 #### 5. OTIF vs. Target:
-   Monthly, Weekly, Daily
-   City and Customer-wise
+   - Monthly, Weekly, Daily
+  - City and Customer-wise
 #### 6. Product Insight:
-  Sparklines for Line Fill and Volume trends
+  - Sparklines for Line Fill and Volume trends
 #### 7. User-Friendly Options:
-  Switching views for different metrics
+  - Switching views for different metrics
 
 
 
