@@ -24,6 +24,14 @@ AtliQ Mart, an FMCG manufacturer based in Gujarat, India, is on a growth traject
 #### 7. User-Friendly Options:
   - Switching views for different metrics
 
+## My DashBord Idea
+
+**Over View :** Filtered by Year,Month,Week + (All masure as a card respect to targets) + (masure Slpit by city and customer respect to targets with condition filter)
+**Customer service level :** Filtered by Year,Month,Week + (distribution of delevery timing ) + (key metrics of average delevery day) + (show the dilivery issu for specific customer/city )
+**Product insigh :** Filtered by Year,Month,Week + (All product related kry metrics with trend grph for each cell)+ (Graph for each product category if possible)
+**Key Metrics Trend :** Filtered by Year,Month,Week + (All metrics trend line with swtiching facility) 
+
+
 
 
 
