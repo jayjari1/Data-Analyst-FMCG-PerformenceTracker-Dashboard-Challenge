@@ -13,7 +13,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
   - City and Customer-specific metrics
 #### 3. Customer Service Level:
 - Visualized for On-Time, Full-Time, and Combined Metrics
-  - Line Fill and Volume
+- Line Fill and Volume
 #### 4. Conditional Formatting:
   - Highlighting gaps from target metrics
 #### 5. OTIF vs. Target:
