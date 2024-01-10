@@ -6,8 +6,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## FMCG Dashboard for Performance Tracking
 #### 1. KPIs:
-  On-Time, Full-Time, Combined Performance
-  City and Customer-wise
+  - On-Time, Full-Time, Combined Performance
+  - City and Customer-wise
   Visualized against targets
 #### 2. Line Fill and Volume:
   City and Customer-specific metrics
