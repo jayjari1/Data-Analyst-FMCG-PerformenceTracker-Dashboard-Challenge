@@ -31,7 +31,8 @@ AtliQ Mart, an FMCG manufacturer based in Gujarat, India, is on a growth traject
 #### P3. **Product insigh :** Filtered by Year,Month,Week + (All product related kry metrics with trend grph for each cell)+ (Graph for each product category if possible).
 #### P3. **Key Metrics Trend :** Filtered by Year,Month,Week + (All metrics trend line with swtiching facility).
 
-## For Video Presentation : https://www.linkedin.com/posts/jay-jariwala-data-analyst-n-scientist_data-analyst-performance-tracking-dashboard-activity-7151563905662644224-zjP3?utm_source=share&utm_medium=member_desktop
+## For Video Presentation : 
+https://www.linkedin.com/posts/jay-jariwala-data-analyst-n-scientist_data-analyst-performance-tracking-dashboard-activity-7151563905662644224-zjP3?utm_source=share&utm_medium=member_desktop
 
 
 
